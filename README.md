@@ -11,6 +11,5 @@ Aiden AI is a Python-based AI-powered virtual assistant that leverages OpenAI's 
 - 📅 Time and date functionalities
 - 🎶 Play music from local storage or online
 - 📝 Execute custom Python functions based on voice input
-
-## 📁 Project Structure
+  
 
